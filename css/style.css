@@ -1,0 +1,15 @@
+img.slide{
+    height: 500px;
+}
+
+img.foodimg{
+    height: 200px;;
+}
+
+.cards{
+    margin-bottom: 5rem;
+    align-items: center;
+}
+#footer{
+    align-items: center;
+}
